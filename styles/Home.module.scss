@@ -1,3 +1,7 @@
 .main {
   background: blue;
+
+  @screen sm {
+    background: red;
+  }
 }
